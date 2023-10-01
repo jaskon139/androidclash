@@ -1,10 +1,12 @@
 # Gradle & Android Studio
-local.properties
 .gradle/
 .externalNativeBuild/
 build/
-captures/
-release/
+common/build
+core/.cxx
+core/build
+app/build
+design/build
 
 .idea/
 *.iml
