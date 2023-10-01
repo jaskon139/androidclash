@@ -1,0 +1,26 @@
+                    Executable : C:\tools\android-sdk\cmake\3.18.1\bin\cmake.exe
+arguments : 
+-HC:\opensource\androidclash\core\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\tools\android-sdk\ndk\23.0.7599858
+-DCMAKE_ANDROID_NDK=C:\tools\android-sdk\ndk\23.0.7599858
+-DCMAKE_TOOLCHAIN_FILE=C:\tools\android-sdk\ndk\23.0.7599858\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\tools\android-sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\opensource\androidclash\core\build\intermediates\cxx\Debug\6f11t1p6\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\opensource\androidclash\core\build\intermediates\cxx\Debug\6f11t1p6\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\opensource\androidclash\core\.cxx\Debug\6f11t1p6\x86
+-GNinja
+-DGO_SOURCE:STRING=C:\opensource\androidclash\core\src\main\golang\native
+-DGO_OUTPUT:STRING=C:\opensource\androidclash\core\build\outputs\golang
+-DFLAVOR_NAME:STRING=foss
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

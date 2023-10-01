@@ -1,0 +1,5 @@
+# ninja log v5
+22	124	717854272	CMakeFiles/bridge.dir/bridge_helper.c.o	5bcbbd5d17878a53
+12	160	717854272	CMakeFiles/bridge.dir/jni_helper.c.o	c314a3d833420ab2
+0	198	717854272	CMakeFiles/bridge.dir/main.c.o	6230c4fb40ffebfc
+198	332	717854272	C:/opensource/androidclash/core/build/intermediates/cxx/Debug/6f11t1p6/obj/x86/libbridge.so	d725480c99821128

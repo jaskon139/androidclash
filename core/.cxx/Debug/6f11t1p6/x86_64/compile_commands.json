@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/opensource/androidclash/core/.cxx/Debug/6f11t1p6/x86_64",
+  "command": "C:\\tools\\android-sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/tools/android-sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/tools/android-sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbridge_EXPORTS -IC:/opensource/androidclash/core/build/outputs/golang/fossDebug/x86_64 -IC:/opensource/androidclash/core/src/main/golang/native -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\bridge.dir\\main.c.o -c C:\\opensource\\androidclash\\core\\src\\main\\cpp\\main.c",
+  "file": "C:\\opensource\\androidclash\\core\\src\\main\\cpp\\main.c"
+},
+{
+  "directory": "C:/opensource/androidclash/core/.cxx/Debug/6f11t1p6/x86_64",
+  "command": "C:\\tools\\android-sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/tools/android-sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/tools/android-sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbridge_EXPORTS -IC:/opensource/androidclash/core/build/outputs/golang/fossDebug/x86_64 -IC:/opensource/androidclash/core/src/main/golang/native -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\bridge.dir\\jni_helper.c.o -c C:\\opensource\\androidclash\\core\\src\\main\\cpp\\jni_helper.c",
+  "file": "C:\\opensource\\androidclash\\core\\src\\main\\cpp\\jni_helper.c"
+},
+{
+  "directory": "C:/opensource/androidclash/core/.cxx/Debug/6f11t1p6/x86_64",
+  "command": "C:\\tools\\android-sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/tools/android-sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/tools/android-sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbridge_EXPORTS -IC:/opensource/androidclash/core/build/outputs/golang/fossDebug/x86_64 -IC:/opensource/androidclash/core/src/main/golang/native -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\bridge.dir\\bridge_helper.c.o -c C:\\opensource\\androidclash\\core\\src\\main\\cpp\\bridge_helper.c",
+  "file": "C:\\opensource\\androidclash\\core\\src\\main\\cpp\\bridge_helper.c"
+}
+]

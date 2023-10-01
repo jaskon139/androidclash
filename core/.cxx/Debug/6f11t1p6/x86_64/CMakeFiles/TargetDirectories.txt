@@ -1,0 +1,3 @@
+C:/opensource/androidclash/core/.cxx/Debug/6f11t1p6/x86_64/CMakeFiles/edit_cache.dir
+C:/opensource/androidclash/core/.cxx/Debug/6f11t1p6/x86_64/CMakeFiles/bridge.dir
+C:/opensource/androidclash/core/.cxx/Debug/6f11t1p6/x86_64/CMakeFiles/rebuild_cache.dir
