@@ -1,7 +1,0 @@
-Executable : C:\tools\android-sdk\cmake\3.18.1\bin\ninja.exe
-arguments : 
--C
-C:\opensource\androidclash\core\.cxx\Debug\6f11t1p6\arm64-v8a
-bridge
-jvmArgs : 
-

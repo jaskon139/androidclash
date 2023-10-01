@@ -1,6 +1,0 @@
-ninja: Entering directory `C:\opensource\androidclash\core\.cxx\Debug\6f11t1p6\arm64-v8a'
-[1/4] Building C object CMakeFiles/bridge.dir/jni_helper.c.o
-[2/4] Building C object CMakeFiles/bridge.dir/main.c.o
-[3/4] Building C object CMakeFiles/bridge.dir/bridge_helper.c.o
-[4/4] Linking C shared library C:\opensource\androidclash\core\build\intermediates\cxx\Debug\6f11t1p6\obj\arm64-v8a\libbridge.so
-»î¶¯´úÂëÒ³: 936
